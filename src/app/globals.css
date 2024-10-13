@@ -4,6 +4,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+ ;
 }
 
 @layer utilities {
@@ -15,5 +16,6 @@ body {
 @layer base {
   :root {
     --radius: 0.5rem;
+    background-color: #fff4ed
   }
 }
