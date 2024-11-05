@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Image from "next/image";
 import Footer from "@/components/Footer";
 import { GraduationCap } from "lucide-react";
 const inter = Inter({ subsets: ["latin"] });
